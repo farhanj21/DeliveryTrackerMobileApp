@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SMD Assignment 3</string>
+    <string name="newProd">Add New Product</string>
+    <string name="prodName">Product Name</string>
+    <string name="title">Enter Title</string>
+    <string name="date">Enter Date</string>
+    <string name="price">Enter Price</string>
+</resources>

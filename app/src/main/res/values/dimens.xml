@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="padding3">3dp</dimen>
+    <dimen name="padding16">16dp</dimen>
+    <dimen name="padding20">20dp</dimen>
+    <dimen name="padding10">10dp</dimen>
+    <dimen name="padding0">0dp</dimen>
+    <dimen name="padding50">50dp</dimen>
+    <dimen name="padding30">30dp</dimen>
+    <dimen name="sp20">20sp</dimen>
+    <dimen name="sp16">16sp</dimen>
+</resources>
